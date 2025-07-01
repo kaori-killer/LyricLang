@@ -218,7 +218,7 @@ npm run preview
 
 ## 💡 개발 철학
 
-LyricLang는 **사용자 중심 설계(User-Centered Design)**를 바탕으로 개발되었습니다:
+LyricLang는 사용자 중심 설계(User-Centered Design)를 바탕으로 개발되었습니다:
 
 1. **사용자 니즈 우선**: 실제 영어 학습자들의 고민과 니즈에서 출발
 2. **자연스러운 학습**: 강제적인 학습이 아닌 음악 감상 중 자연스럽게 일어나는 학습
