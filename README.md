@@ -1,4 +1,1 @@
 # LyricLang
-# LyricLang
-# LyricLang
-# LyricLang
